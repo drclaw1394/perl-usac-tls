@@ -1,0 +1,6 @@
+Revision history for Perl extension uSAC::TLS.
+
+0.01  Sun Sep 17 13:51:47 2023
+	- original version; created by h2xs 1.23 with options
+		-X -P -n uSAC::TLS
+
