@@ -13,6 +13,7 @@ use constant::more
 
 my $PACK_PROTOCOL_VERSION="CC";
 
+my $PACK_SESSION="";
 
 # Content Type Enumerations
 use constant::more 
